@@ -1,0 +1,23 @@
+{
+  "name": "simplon_theater_app",
+  "version": "1.0.0",
+  "description": "A little project for Simplon php training session",
+  "main": "index.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerkodeur/Simplon_Theater_app.git"
+  },
+  "author": "jerkoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerkodeur/Simplon_Theater_app/issues"
+  },
+  "homepage": "https://github.com/jerkodeur/Simplon_Theater_app#readme"
+}
